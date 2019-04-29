@@ -1,0 +1,38 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Miguel de Cervantes</title>
+	<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+	
+</head> 
+<body>
+	<div id="wrapper">
+		<div id="navbar">
+			<a href="index.html"><img class= "fotoindex" src= "http://www.librostube.org/wp-content/uploads/don_quijote.jpg"></a>
+			<a href="https://uhs.upr.edu//">UHS</a>
+			<a href="sanchoPanza.html">Sancho Panza</a>
+			<a href="dulcinea.html">Dulcinea</a>
+			<a href="marcela.html">Marcela</a>
+			<a href="migueldeCervantes.html">Miguel de Cervantes</a>
+		</div><!--cierre de Navbar-->
+	 
+	<div class= "personaje">
+			<div class="fotoPersonaje">
+				<img class="foto" src=
+				
+			</div><!--cierre fotoPersonaje-->
+			
+			<div class="infoPersonaje">
+				<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+				<p> Sancho Panza  </p>
+				<p> </p>
+			</div><!--cierre infoPersonaje-->
+		</div><!--cierre personaje-->
+	
+	
+	
+	</div> <!--cierre de Wrapper-->
+	
+</body>
+</html>
+
